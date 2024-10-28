@@ -1,8 +1,8 @@
 #!url=https://toannam.com/Locket_toannam.sgmodule
 #!name=Locket-Gold
-#!desc=Lê Toàn Nam
+#!desc=Ngô Tuấn Nam
 [Script]
-# ~ By Vuong2023
+# ~ By namtuan.it
 # ～ Egern transfer to Shadowrocket & Surge & LanceX
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://toannam.com/Locket_Ohoang7.js, requires-body=true, max-size=-1, timeout=60
 
